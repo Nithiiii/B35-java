@@ -2,6 +2,7 @@ package org.tnsindia;
 
 import java.util.Scanner;
 
+@SuppressWarnings("unused")
 public class datatypes {
 
 	public static void main(String[] args) {
@@ -13,7 +14,6 @@ public class datatypes {
 		
 		int y=122;
 		System.out.println("integer is " +y);
-		
 		
 		float f=128.8f;
 		System.out.println("float is " +f);
